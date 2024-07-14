@@ -1,2 +1,18 @@
-# .github
-redheadsatx's landing page for public viewing
+### Welcome to Redheads!
+
+
+
+
+
+
+
+------
+
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+------
+
